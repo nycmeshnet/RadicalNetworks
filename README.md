@@ -16,21 +16,16 @@ NYC Mesh is a community owned resilient Wi-Fi mesh network, started by a group o
 
 The aim is to create a free, resilient, stand-alone communication system that serves both for daily use and also for emergencies — be it power outages or Internet disruption — running software that helps our community with hyperlocal maps and events.
 
-During this meetup, Brian, Dan and Julien will present the status of the network, how it works, how to get involved and why this could be useful for artists, technologists and the people of New York. There will also be some prepared nodes that you can buy ($28) and bring home to get yourself immediately on board.
+During this talk, Brian, Dan and Julien will present the status of the network, how it works, how to get involved and why this could be useful for artists, technologists and the people of New York. There will also be some prepared nodes that you can buy ($28) and bring home to get yourself immediately on board.
 
 ## Length of talk / panel / workshop
 
 The talk will be about 30 minutes divided btw three speakers, with 15 minutes of questions
 
-## Workshop technical requirements and materials list
-
-
-## Demo installation requirements
-
 
 ## Speaker Bios
 
-[https://nycmesh.net/assets/images/team/bhny.jpg]
+[https://nycmesh.net/assets/images/logo.png]
 
 Dan Grinkevich ...
 
