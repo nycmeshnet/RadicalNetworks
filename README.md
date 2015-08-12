@@ -1,5 +1,7 @@
 ## Title of Talk / Panel / Workshop / Demo
 
+NYC Mesh, a community owned Wi-Fi network
+
 Name : Brian Hall, Julien Deswaef, Dan Grinkevich
 Location : NYC
 Email : contact@nycmesh.net
@@ -10,7 +12,7 @@ Url(s) : [nycmesh.net](https://nycmesh.net/)
 
 Talk
 
-## Description of your talk / panel / workshop / demo
+## Description of your talk
 
 NYC Mesh is a community owned resilient Wi-Fi mesh network, started by a group of passionate volunteers in New York City.
 
@@ -18,10 +20,9 @@ The aim is to create a free, resilient, stand-alone communication system that se
 
 During this talk, Brian, Dan and Julien will present the status of the network, how it works, how to get involved and why this could be useful for artists, technologists and the people of New York. There will also be some prepared nodes that you can buy ($28) and bring home to get yourself immediately on board.
 
-## Length of talk / panel / workshop
+## Length of talk
 
 The talk will be about 30 minutes divided btw three speakers, with 15 minutes of questions
-
 
 ## Speaker Bios
 
