@@ -10,9 +10,9 @@ GitHub : [nycmeshnet](https://github.com/nycmeshnet)
 Url(s) : [nycmesh.net](https://nycmesh.net/)
 ## Type of proposal
 
-Talk
+Three members of NYC Mesh will be talking and presenting a slideshow
 
-## Description of your talk
+## Description of your talk / panel / workshop / demo
 
 NYC Mesh is a community owned resilient Wi-Fi mesh network, started by a group of passionate volunteers in New York City.
 
@@ -20,9 +20,15 @@ The aim is to create a free, resilient, stand-alone communication system that se
 
 During this talk, Brian, Dan and Julien will present the status of the network, how it works, how to get involved and why this could be useful for artists, technologists and the people of New York. There will also be some prepared nodes that you can buy ($28) and bring home to get yourself immediately on board.
 
-## Length of talk
+## Length of talk / panel / workshop
 
 The talk will be about 30 minutes divided btw three speakers, with 15 minutes of questions
+
+## Workshop technical requirements and materials list
+n/a
+
+## Demo installation requirements
+n/a
 
 ## Speaker Bios
 
